@@ -3670,7 +3670,7 @@
       (net 3 "MISO") (pinfunction "9") (pintype "passive") (tstamp f15ab99c-bff7-44d0-8062-8e1b98ea5942))
     (pad "10" thru_hole circle (at 10.16 -2.54 180) (size 1.725 1.725) (drill 1.15) (layers "*.Cu" "*.Mask")
       (net 10 "GND") (pinfunction "10") (pintype "passive") (tstamp 0f4ea0fe-4be0-460f-b0e1-df69d11775b2))
-    (model "E:\\Repos\\flipper-avr-isp-module\\libraryloader\\SamacSys_Parts.3dshapes\\1761681-3.stp"
+    (model "E:/Repos/Flipper-ICSP/libraryloader/SamacSys_Parts.3dshapes/1761681-3.stp"
       (offset (xyz 5.079999847 1.279999952 9.129999977))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3875,7 +3875,7 @@
       (net 6 "RESET") (pinfunction "5") (pintype "passive") (tstamp f3a91acf-ba3e-4785-b201-1a82297cf01e))
     (pad "6" thru_hole circle (at 5.08 -2.54 180) (size 1.725 1.725) (drill 1.15) (layers "*.Cu" "*.Mask")
       (net 10 "GND") (pinfunction "6") (pintype "passive") (tstamp 2ed5b7ce-dcf0-4981-98cc-fd80440a3d97))
-    (model "E:\\Repos\\flipper-avr-isp-module\\libraryloader\\SamacSys_Parts.3dshapes\\1761681-1.stp"
+    (model "E:/Repos/Flipper-ICSP/libraryloader/SamacSys_Parts.3dshapes/1761681-1.stp"
       (offset (xyz 2.539999924 1.330000023 9.220000129))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
