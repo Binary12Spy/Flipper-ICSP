@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 1761681-3
+D Shrouded hdr,male,10 way,2.54mm,PCB,180
+K
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1761681&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP 1761681-1
+D Header vert 6 way 2.54mm AmpLatch
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1761681%7FA1%7Fpdf%7FEnglish%7FENG_CD_1761681_A1.pdf%7F1761681-1
+$ENDCMP
+#
+$CMP SLW-913535-2A-SMT
+D Slide Switches 9.1 x 3.5 x 3.5 mm, 2 mm Raised Slide Actuator, Vertical, Surface Mount
+K
+F https://www.cuidevices.com/product/resource/pdf/slw-913535-2a-smt.pdf
+$ENDCMP
+#
+$CMP 599-0411-127F
+D Red 630nm LED Indication - Discrete 2.1V 1206 (3216 Metric)
+K
+F 
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FlipperZero")(type "KiCad")(uri "${KIPRJMOD}/libraryloader/FlipperZero.pretty")(options "")(descr ""))
+  (lib (name "LibraryLoader")(type "KiCad")(uri "${KIPRJMOD}/libraryloader/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/graphics")(options "")(descr ""))
+)

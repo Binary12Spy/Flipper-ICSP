@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"LED1,LED4,LED3,LED2";"5990411127F";4;"599-0411-127F";;;
+2;"S1";"SLW9135352ASMT";1;"SLW-913535-2A-SMT";;;
+3;"J2";"SHDR10W67P254_2X5_2032X916X922P";1;"1761681-3";;;
+4;"J3";"SHDR6W67P254_2X3_1524X916X922P";1;"1761681-1";;;
+5;"R1";"R_1206_3216Metric_Pad1.30x1.75mm_HandSolder";1;"220R";;;

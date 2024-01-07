@@ -1,0 +1,134 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1761681-3
+#/191770/1148927/2.50/10/3/Connector
+DEF 1761681-3 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "1761681-3" 750 200 50 H V L CNN
+F2 "SHDR10W67P254_2X5_2032X916X922P" 750 100 50 H I L CNN
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1761681&DocType=Customer+Drawing&DocLang=English" 750 0 50 H I L CNN
+F4 "Shrouded hdr,male,10 way,2.54mm,PCB,180" 750 -100 50 H I L CNN "Description"
+F5 "9.22" 750 -200 50 H I L CNN "Height"
+F6 "571-1761681-3" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1761681-3?qs=zDQ%2FIlbob1ssmXlOpwQNHA%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1761681-3" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 7 7 0 -300 200 R 50 50 0 0 P
+X 9 9 0 -400 200 R 50 50 0 0 P
+X 2 2 900 0 200 L 50 50 0 0 P
+X 4 4 900 -100 200 L 50 50 0 0 P
+X 6 6 900 -200 200 L 50 50 0 0 P
+X 8 8 900 -300 200 L 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1761681-1
+#/191769/1148927/2.50/6/2/Connector
+DEF 1761681-1 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1761681-1" 650 200 50 H V L CNN
+F2 "SHDR6W67P254_2X3_1524X916X922P" 650 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1761681%7FA1%7Fpdf%7FEnglish%7FENG_CD_1761681_A1.pdf%7F1761681-1" 650 0 50 H I L CNN
+F4 "Header vert 6 way 2.54mm AmpLatch" 650 -100 50 H I L CNN "Description"
+F5 "9.22" 650 -200 50 H I L CNN "Height"
+F6 "571-1761681-1" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1761681-1?qs=BqFpTYCQ3dLAeZ2wzdz7aw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1761681-1" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+X 6 6 800 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model SLW-913535-2A-SMT
+#/18671404/1148927/2.50/6/3/Switch
+DEF SLW-913535-2A-SMT S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "SLW-913535-2A-SMT" 1050 200 50 H V L CNN
+F2 "SLW9135352ASMT" 1050 100 50 H I L CNN
+F3 "https://www.cuidevices.com/product/resource/pdf/slw-913535-2a-smt.pdf" 1050 0 50 H I L CNN
+F4 "Slide Switches 9.1 x 3.5 x 3.5 mm, 2 mm Raised Slide Actuator, Vertical, Surface Mount" 1050 -100 50 H I L CNN "Description"
+F5 "5.9" 1050 -200 50 H I L CNN "Height"
+F6 "179-SLW-913535-2ASMT" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-913535-2A-SMT?qs=1Kr7Jg1SGW948I6fIY1VRA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "CUI Devices" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SLW-913535-2A-SMT" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NC_1 1 1200 0 200 L 50 50 0 0 P
+X COM_1 2 1200 -100 200 L 50 50 0 0 P
+X NC_2 3 1200 -200 200 L 50 50 0 0 P
+X NC_3 4 0 0 200 R 50 50 0 0 P
+X COM_2 5 0 -100 200 R 50 50 0 0 P
+X NC_4 6 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 599-0411-127F
+#/18689563/1148927/2.50/2/3/LED
+DEF 599-0411-127F LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "599-0411-127F" 500 250 50 H V L BNN
+F2 "5990411127F" 500 150 50 H I L BNN
+F3 "" 500 50 50 H I L BNN
+F4 "Red 630nm LED Indication - Discrete 2.1V 1206 (3216 Metric)" 500 -50 50 H I L BNN "Description"
+F5 "1.5494" 500 -150 50 H I L BNN "Height"
+F6 "" 500 -250 50 H I L BNN "Mouser Part Number"
+F7 "" 500 -350 50 H I L BNN "Mouser Price/Stock"
+F8 "Dialight" 500 -450 50 H I L BNN "Manufacturer_Name"
+F9 "599-0411-127F" 500 -550 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~ 1 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+ENDDRAW
+ENDDEF
+#
+#End Library
